@@ -2,7 +2,7 @@ import React from 'react'
 const Home = () => {
     return (
         < >
-             Home Pages
+             Home Pages 1
         </>
     )
 }
